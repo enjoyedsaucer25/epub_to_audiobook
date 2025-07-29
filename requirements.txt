@@ -12,4 +12,4 @@ sentencex==0.6.1
 gradio_log==0.0.8
 fastapi
 uvicorn[standard]
-gradio
+multiprocess
